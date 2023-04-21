@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ziYfsZcQlLAJ8WfFrlZ/q+bRAm2W2D1LFviTlW6IMgI=",
+  "Source": "Ensar-Smtp",
+  "BasePath": "_content/Ensar-Smtp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
